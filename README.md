@@ -1,4 +1,5 @@
-This project is a **functional calculator** built using HTML, CSS, and JavaScript. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division. The calculator features a user-friendly interface, responsive design, and error handling for invalid inputs. It is an excellent tool for simple mathematical computations and demonstrates my skills in frontend development and user interface design.
+This project is a **functional calculator** built using** HTML, CSS, and JavaScript**. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division. The calculator features a user-friendly interface, responsive design, and error handling for invalid inputs. It is an excellent tool for simple mathematical computations and demonstrates my skills in frontend development and user interface design.
+
 ![image](https://github.com/user-attachments/assets/c77560a5-bce9-4549-84c4-5092556fbe9b)
 
 **Features**
